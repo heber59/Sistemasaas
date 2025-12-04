@@ -12,8 +12,3 @@ https://github.com/heber59/heberAlvarezPortfolio
 🌐 **Live Demo on Vercel:**  
 https://heber-alvarez-portfolio.vercel.app/
 
-## 🚀 Running the Project
-
-1. Install dependencies:
-   ```bash
-   npm install
