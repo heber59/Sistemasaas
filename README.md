@@ -1,10 +1,8 @@
 # Sistema SaaS — UI Concept
 
-This repository contains a frontend implementation based on a UI design created in Figma.  
-The goal of this project is to showcase my skills in layout, React, and interface design as part of my professional portfolio.
+This repository contains a demo frontend implementation based on a UI design created for **Inube**.  
+The purpose of this project is to showcase my skills in layout, React, and interface development as part of my professional portfolio.
 
-🔗 **Original Figma Design:**  
-https://www.figma.com/design/h6mPkO2SVgO1WypyiIWhy1/Sistema-Saas
 
 🗂 **Main Portfolio (GitHub):**  
 https://github.com/heber59/heberAlvarezPortfolio
